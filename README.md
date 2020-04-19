@@ -48,4 +48,5 @@ It creates your snapshot data at set of intervals.
 
 ### Ops Manager
 
+MongoDB subscribers can install and run the same core software that powers MongoDB Cloud Manager on their own infrastructure.
 
