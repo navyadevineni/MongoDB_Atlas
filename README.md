@@ -12,6 +12,7 @@ MongoDB Atlas provides two methods for backups:
 It enables you to configure and maintain MongoDB nodes and clusters.
 
 ![](https://docs.cloudmanager.mongodb.com/_images/how-it-works.png)
+         Source : [Cloudemanager](https://docs.cloudmanager.mongodb.com/application/)
 #### Monitoring 
 It monitors real-time reporting, visualization, and alerting on key database and hardware indicators.
 
@@ -34,7 +35,7 @@ It monitors real-time reporting, visualization, and alerting on key database and
 
 5. <i>Resync a Backup</i>
 
-        If your Backup oplog has fallen too far behind your deployment to catch up, you must resync the backup.
+        If your Backup oplog(basic mechanism enabling replication in MongoDB) has fallen too far behind your deployment to catch up, you must resync the backup.
 
 6. <i>Disable the Backup Service</i>
 
@@ -44,5 +45,7 @@ It monitors real-time reporting, visualization, and alerting on key database and
 
 It is a hosted  backup, monitoring, and automation service and supports backing up and restoring MongoDB deployments from a GUI.
 It creates your snapshot data at set of intervals.
+
+### Ops Manager
 
 
