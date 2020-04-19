@@ -7,6 +7,11 @@ MongoDB Atlas provides two methods for backups:
 
 - <b>Cloud Provider Snapshots</b> : Using the native snapshot functionality, it provides localized backup storage.
 
+#### Automation
+
+It enables you to configure and maintain MongoDB nodes and clusters.
+
+![](https://docs.cloudmanager.mongodb.com/_images/how-it-works.png)
 #### Monitoring 
 It monitors real-time reporting, visualization, and alerting on key database and hardware indicators.
 
@@ -39,4 +44,5 @@ It monitors real-time reporting, visualization, and alerting on key database and
 
 It is a hosted  backup, monitoring, and automation service and supports backing up and restoring MongoDB deployments from a GUI.
 It creates your snapshot data at set of intervals.
+
 
